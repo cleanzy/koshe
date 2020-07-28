@@ -1,0 +1,31 @@
+body{
+	background:#2c3539; 
+}
+
+.container{
+	
+	text-align: center;
+}
+
+.col-sm{
+	margin: 1em;
+}
+.image img{
+	width: 100%;
+	margin-top: 3px;
+}
+
+.container2{
+	margin-right: 3em;
+	
+}
+p,h1,h5{
+	color: white;
+}
+.card-title{
+	color: black;
+}
+
+.card-text{
+	color: black;
+}
